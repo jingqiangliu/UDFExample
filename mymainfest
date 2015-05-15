@@ -1,0 +1,2 @@
+Main-Class: udfExample.GenericUDFGeoIP
+Class-Path: lib/geoip-api-1.2.15-SNAPSHOT.jar lib/hive-exec-1.1.0.jar
